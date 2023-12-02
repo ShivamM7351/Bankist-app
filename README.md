@@ -1,0 +1,1 @@
+# This is Bankist app. Here user can see the deposits or withdrawal information of own account
